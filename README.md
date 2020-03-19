@@ -1,4 +1,5 @@
 # cash-register-simulator
-Java program that performs like a cash register.
 
-Takes in user input and performs its job.
+Java program that simulates a cash register.
+
+Takes in user input and does its job.
